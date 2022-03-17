@@ -1,0 +1,45 @@
+.cont-item-count{
+    width: 30%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.cont-item-count button{
+    font-size: 20px;
+    background-color: #237FE1;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;  
+}
+
+.cont-item-count button:hover{
+    background-color: #4394EA;
+}
+
+.item-count{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    text-align: start;
+}
+
+.item-count span {
+    font-size: 30px;
+}
+
+.btn-cant{
+    width: 20%;
+}
+
+.btn-add{
+    /* width: 30%; */
+    padding: 10px;
+}

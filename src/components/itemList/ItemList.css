@@ -1,0 +1,16 @@
+.img-item{
+    height: 170px;
+}
+
+.lista li{
+    list-style-type: none;
+    margin: 30px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    background-color: #ffe3f4;
+    flex-wrap: wrap;
+}

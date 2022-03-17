@@ -1,0 +1,21 @@
+.cart{
+    height: 35px;
+}
+
+nav {
+    background-color: #ffc2e8 !important;
+}
+
+button {
+    border-radius: 20px;
+    background-color: #ffc2e8 !important;
+}
+
+body {
+    background-color: #ffe3f4 ;
+}
+
+* {
+    margin: 0;
+    padding: 0; }
+
